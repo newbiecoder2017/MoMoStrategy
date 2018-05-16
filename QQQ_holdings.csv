@@ -1,0 +1,104 @@
+FundTicker,SecurityNum,HoldingsTicker,Shares,MarketValue,Weight,Name,Sector,Date
+QQQ,023135106,AMZN ,"3,947,738","6,322,460,316.52",9.762,Amazon.com Inc,Consumer Discretionary,05/14/2018
+QQQ,20030N101,CMCSA ,"37,798,783","1,214,852,885.62",1.876,Comcast Corp,Consumer Discretionary,05/14/2018
+QQQ,64110L106,NFLX ,"3,538,826","1,162,610,505.78",1.795,Netflix Inc,Consumer Discretionary,05/14/2018
+QQQ,09857L108,BKNG ,"393,662","815,675,537.24",1.259,Booking Holdings Inc,Consumer Discretionary,05/14/2018
+QQQ,855244109,SBUX ,"11,462,549","654,855,424.37",1.011,Starbucks Corp,Consumer Discretionary,05/14/2018
+QQQ,16119P108,CHTR ,"1,944,961","530,663,159.24",0.819,Charter Communications Inc,Consumer Discretionary,05/14/2018
+QQQ,571903202,MAR ,"2,914,959","406,199,536.65",0.627,Marriott International Inc/MD,Consumer Discretionary,05/14/2018
+QQQ,88160R101,TSLA ,"1,377,465","402,178,456.05",0.621,Tesla Inc,Consumer Discretionary,05/14/2018
+QQQ,90130A101,FOXA ,"8,595,345","324,560,227.2",0.501,Twenty-First Century Fox Inc,Consumer Discretionary,05/14/2018
+QQQ,47215P106,JD ,"7,521,132","279,560,476.44",0.432,JD.com Inc ADR,Consumer Discretionary,05/14/2018
+QQQ,778296103,ROST ,"3,116,264","257,590,382.24",0.398,Ross Stores Inc,Consumer Discretionary,05/14/2018
+QQQ,82968B103,SIRI ,"36,630,988","250,922,267.8",0.387,Sirius XM Holdings Inc,Consumer Discretionary,05/14/2018
+QQQ,90130A200,FOX ,"6,511,850","242,826,886.5",0.375,Twenty-First Century Fox Inc,Consumer Discretionary,05/14/2018
+QQQ,67103H107,ORLY ,"682,465","186,210,575.25",0.288,O'Reilly Automotive Inc,Consumer Discretionary,05/14/2018
+QQQ,256746108,DLTR ,"1,933,626","183,423,762.36",0.283,Dollar Tree Inc,Consumer Discretionary,05/14/2018
+QQQ,22943F100,CTRP ,"3,769,096","162,749,565.28",0.251,Ctrip.com International Ltd ADR,Consumer Discretionary,05/14/2018
+QQQ,983134107,WYNN ,"840,133","160,994,686.79",0.249,Wynn Resorts Ltd,Consumer Discretionary,05/14/2018
+QQQ,G5480U120,LBTYK ,"4,717,147","139,391,693.85",0.215,Liberty Global PLC,Consumer Discretionary,05/14/2018
+QQQ,30212P303,EXPE ,"1,133,762","129,974,475.68",0.201,Expedia Group Inc,Consumer Discretionary,05/14/2018
+QQQ,90384S303,ULTA ,"497,447","122,889,306.88",0.19,Ulta Beauty Inc,Consumer Discretionary,05/14/2018
+QQQ,418056107,HAS ,"1,012,564","87,718,419.32",0.135,Hasbro Inc,Consumer Discretionary,05/14/2018
+QQQ,74915M100,QRTEA ,"3,664,362","81,935,134.32",0.127,Qurate Retail Inc QVC Group,Consumer Discretionary,05/14/2018
+QQQ,25470M109,DISH ,"1,859,646","59,192,532.18",0.091,DISH Network Corp,Consumer Discretionary,05/14/2018
+QQQ,G5480U104,LBTYA ,"1,791,686","54,144,750.92",0.084,Liberty Global PLC,Consumer Discretionary,05/14/2018
+QQQ,22160K105,COST ,"3,580,959","701,438,248.92",1.083,Costco Wholesale Corp,Consumer Staples,05/14/2018
+QQQ,500754106,KHC ,"9,939,255","589,199,036.4",0.91,Kraft Heinz Co/The,Consumer Staples,05/14/2018
+QQQ,931427108,WBA ,"8,078,913","525,937,236.3",0.812,Walgreens Boots Alliance Inc,Consumer Staples,05/14/2018
+QQQ,609207105,MDLZ ,"12,129,149","475,705,223.78",0.735,Mondelez International Inc,Consumer Staples,05/14/2018
+QQQ,61174X109,MNST ,"4,599,068","225,032,397.24",0.347,Monster Beverage Corp,Consumer Staples,05/14/2018
+QQQ,031162100,AMGN ,"5,876,235","1,033,982,310.6",1.597,Amgen Inc,Health Care,05/14/2018
+QQQ,375558103,GILD ,"10,682,844","716,284,690.2",1.106,Gilead Sciences Inc,Health Care,05/14/2018
+QQQ,151020104,CELG ,"6,133,970","523,288,980.7",0.808,Celgene Corp,Health Care,05/14/2018
+QQQ,09062X103,BIIB ,"1,725,307","487,123,178.38",0.752,Biogen Inc,Health Care,05/14/2018
+QQQ,46120E602,ISRG ,"915,789","426,931,673.91",0.659,Intuitive Surgical Inc,Health Care,05/14/2018
+QQQ,30219G108,ESRX ,"4,602,330","339,053,651.1",0.524,Express Scripts Holding Co,Health Care,05/14/2018
+QQQ,92532F100,VRTX ,"2,070,576","326,032,896.96",0.503,Vertex Pharmaceuticals Inc,Health Care,05/14/2018
+QQQ,452327109,ILMN ,"1,198,804","323,005,749.76",0.499,Illumina Inc,Health Care,05/14/2018
+QQQ,75886F107,REGN ,"862,688","267,036,443.52",0.412,Regeneron Pharmaceuticals Inc,Health Care,05/14/2018
+QQQ,015351109,ALXN ,"1,807,764","222,083,807.4",0.343,Alexion Pharmaceuticals Inc,Health Care,05/14/2018
+QQQ,016255101,ALGN ,"653,379","187,140,813.18",0.289,Align Technology Inc,Health Care,05/14/2018
+QQQ,N59465109,MYL ,"4,374,686","167,375,486.36",0.258,Mylan NV,Health Care,05/14/2018
+QQQ,156782104,CERN ,"2,712,214","160,156,236.7",0.247,Cerner Corp,Health Care,05/14/2018
+QQQ,45168D104,IDXX ,"710,514","149,833,192.32",0.231,IDEXX Laboratories Inc,Health Care,05/14/2018
+QQQ,09061G101,BMRN ,"1,435,909","128,571,291.86",0.199,BioMarin Pharmaceutical Inc,Health Care,05/14/2018
+QQQ,45337C102,INCY ,"1,726,167","116,032,945.74",0.179,Incyte Corp,Health Care,05/14/2018
+QQQ,82481R106,SHPG ,"572,098","96,409,954.96",0.149,Shire PLC ADR,Health Care,05/14/2018
+QQQ,806407102,HSIC ,"1,253,445","91,902,587.4",0.142,Henry Schein Inc,Health Care,05/14/2018
+QQQ,24906P109,XRAY ,"1,872,961","88,984,377.11",0.137,DENTSPLY SIRONA Inc,Health Care,05/14/2018
+QQQ,436440101,HOLX ,"2,255,008","86,366,806.4",0.133,Hologic Inc,Health Care,05/14/2018
+QQQ,126408103,CSX ,"7,235,486","455,112,069.4",0.703,CSX Corp,Industrials,05/14/2018
+QQQ,693718108,PCAR ,"2,870,475","181,385,315.25",0.28,PACCAR Inc,Industrials,05/14/2018
+QQQ,02376R102,AAL ,"3,858,381","163,826,857.26",0.253,American Airlines Group Inc,Industrials,05/14/2018
+QQQ,172908105,CTAS ,"868,344","159,141,404.88",0.246,Cintas Corp,Industrials,05/14/2018
+QQQ,92345Y106,VRSK ,"1,345,844","141,650,081",0.219,Verisk Analytics Inc,Industrials,05/14/2018
+QQQ,311900104,FAST ,"2,345,874","121,469,355.72",0.188,Fastenal Co,Industrials,05/14/2018
+QQQ,445658107,JBHT ,"895,134","110,781,783.84",0.171,JB Hunt Transport Services Inc,Industrials,05/14/2018
+QQQ,037833100,AAPL ,"41,378,444","7,785,354,238.6",12.021,Apple Inc,Information Technology,05/14/2018
+QQQ,594918104,MSFT ,"62,791,606","6,155,461,136.18",9.504,Microsoft Corp,Information Technology,05/14/2018
+QQQ,30303M102,FB ,"19,538,743","3,646,710,993.52",5.631,Facebook Inc,Information Technology,05/14/2018
+QQQ,02079K107,GOOG ,"2,852,997","3,138,867,299.4",4.847,Alphabet Inc,Information Technology,05/14/2018
+QQQ,02079K305,GOOGL ,"2,434,180","2,693,663,588",4.159,Alphabet Inc,Information Technology,05/14/2018
+QQQ,458140100,INTC ,"38,067,441","2,089,902,510.9",3.227,Intel Corp,Information Technology,05/14/2018
+QQQ,17275R102,CSCO ,"39,286,672","1,795,400,910.4",2.772,Cisco Systems Inc,Information Technology,05/14/2018
+QQQ,67066G104,NVDA ,"4,933,672","1,259,862,481.92",1.945,NVIDIA Corp,Information Technology,05/14/2018
+QQQ,00724F101,ADBE ,"4,008,894","955,600,062.78",1.476,Adobe Systems Inc,Information Technology,05/14/2018
+QQQ,882508104,TXN ,"8,022,681","887,629,425.84",1.371,Texas Instruments Inc,Information Technology,05/14/2018
+QQQ,11135F101,AVGO ,"3,347,476","819,328,225.76",1.265,Broadcom Inc,Information Technology,05/14/2018
+QQQ,70450Y103,PYPL ,"9,787,261","771,334,039.41",1.191,PayPal Holdings Inc,Information Technology,05/14/2018
+QQQ,747525103,QCOM ,"12,072,438","684,990,132.12",1.058,QUALCOMM Inc,Information Technology,05/14/2018
+QQQ,056752108,BIDU ,"2,289,389","623,309,049.14",0.962,Baidu Inc ADR,Information Technology,05/14/2018
+QQQ,595112103,MU ,"9,429,751","499,776,803",0.772,Micron Technology Inc,Information Technology,05/14/2018
+QQQ,038222105,AMAT ,"8,568,406","473,490,115.56",0.731,Applied Materials Inc,Information Technology,05/14/2018
+QQQ,053015103,ADP ,"3,614,827","457,926,284.36",0.707,Automatic Data Processing Inc,Information Technology,05/14/2018
+QQQ,00507V109,ATVI ,"6,186,586","443,578,216.2",0.685,Activision Blizzard Inc,Information Technology,05/14/2018
+QQQ,461202103,INTU ,"2,088,559","402,235,577.81",0.621,Intuit Inc,Information Technology,05/14/2018
+QQQ,192446102,CTSH ,"4,795,421","363,780,637.06",0.562,Cognizant Technology Solutions Corp,Information Technology,05/14/2018
+QQQ,285512109,EA ,"2,501,367","331,506,168.51",0.512,Electronic Arts Inc,Information Technology,05/14/2018
+QQQ,278642103,EBAY ,"8,253,478","316,851,020.42",0.489,eBay Inc,Information Technology,05/14/2018
+QQQ,032654105,ADI ,"3,015,784","283,091,644.08",0.437,Analog Devices Inc,Information Technology,05/14/2018
+QQQ,512807108,LRCX ,"1,328,911","271,137,711.33",0.419,Lam Research Corp,Information Technology,05/14/2018
+QQQ,337738108,FISV ,"3,369,643","244,029,546.06",0.377,Fiserv Inc,Information Technology,05/14/2018
+QQQ,052769106,ADSK ,"1,796,386","240,913,326.46",0.372,Autodesk Inc,Information Technology,05/14/2018
+QQQ,958102105,WDC ,"2,426,579","196,844,088.48",0.304,Western Digital Corp,Information Technology,05/14/2018
+QQQ,704326107,PAYX ,"2,929,173","186,090,360.69",0.287,Paychex Inc,Information Technology,05/14/2018
+QQQ,595017104,MCHP ,"1,910,958","178,598,134.68",0.276,Microchip Technology Inc,Information Technology,05/14/2018
+QQQ,64110W102,NTES ,"612,547","165,112,043.85",0.255,NetEase Inc ADR,Information Technology,05/14/2018
+QQQ,98138H101,WDAY ,"1,117,357","149,681,143.72",0.231,Workday Inc,Information Technology,05/14/2018
+QQQ,983919101,XLNX ,"2,078,100","148,459,464",0.229,Xilinx Inc,Information Technology,05/14/2018
+QQQ,83088M102,SWKS ,"1,488,137","147,355,325.74",0.228,Skyworks Solutions Inc,Information Technology,05/14/2018
+QQQ,482480100,KLAC ,"1,277,347","143,995,327.31",0.222,KLA-Tencor Corp,Information Technology,05/14/2018
+QQQ,57772K101,MXIM ,"2,293,216","133,946,746.56",0.207,Maxim Integrated Products Inc,Information Technology,05/14/2018
+QQQ,G7945M107,STX ,"2,322,871","132,566,247.97",0.205,Seagate Technology PLC,Information Technology,05/14/2018
+QQQ,M22465104,CHKP ,"1,332,848","131,885,309.6",0.204,Check Point Software Technologies Ltd,Information Technology,05/14/2018
+QQQ,N07059210,ASML ,"602,722","121,713,680.68",0.188,ASML Holding NV,Information Technology,05/14/2018
+QQQ,12673P105,CA ,"3,399,932","119,303,613.88",0.184,CA Inc,Information Technology,05/14/2018
+QQQ,177376100,CTXS ,"1,110,229","118,505,843.46",0.183,Citrix Systems Inc,Information Technology,05/14/2018
+QQQ,871607107,SNPS ,"1,212,822","109,020,569.58",0.168,Synopsys Inc,Information Technology,05/14/2018
+QQQ,871503108,SYMC ,"5,068,762","108,471,506.8",0.167,Symantec Corp,Information Technology,05/14/2018
+QQQ,58733R102,MELI ,"360,161","107,536,871.38",0.166,MercadoLibre Inc,Information Technology,05/14/2018
+QQQ,874054109,TTWO ,"932,992","106,734,284.8",0.165,Take-Two Interactive Software Inc,Information Technology,05/14/2018
+QQQ,127387108,CDNS ,"2,306,870","97,326,845.3",0.15,Cadence Design Systems Inc,Information Technology,05/14/2018
+QQQ,872590104,TMUS ,"6,967,924","393,408,989.04",0.607,T-Mobile US Inc,Telecommunication Services,05/14/2018
+QQQ,92857W308,VOD ,"3,873,431","109,889,237.47",0.17,Vodafone Group PLC ADR,Telecommunication Services,05/14/2018
